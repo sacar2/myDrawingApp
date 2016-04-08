@@ -1,0 +1,10 @@
+/*#canvasArea{
+  width: 700px;
+  height: 400 px;
+}*/
+
+#theCanvas{
+  /*width: 500px;
+  height:500px;*/
+  border:2px solid #000000;
+}
